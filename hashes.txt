@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eco de tus palabras dulces
+
+This log tracks the cryptographic history and versioning for the song **Eco de tus palabras dulces** (eco-de-tus-palabras-dulces).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:49:06.934002 | `v1` | `12f0744f0d9e6cfd704d9cfad928929a1cc2e8ceb05cf63dddd3495e669bc0c7` | `27ed0a6675777c449b6a5771c74132134393a17d587cada5d2e0a43025c96225` | `2026-06-15_eco-de-tus-palabras-dulces-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

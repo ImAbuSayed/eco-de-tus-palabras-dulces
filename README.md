@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Eco de tus palabras dulces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
+| **Get License** | [Secure Licensing Rights for Eco de tus palabras dulces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `12f0744f0d9e6cfd704d9cfad928929a1cc2e8ceb05cf63dddd3495e669bc0c7` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

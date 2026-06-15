@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Eco de tus palabras dulces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
+| **Get License** | [License this song: Eco de tus palabras dulces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-palabras-dulces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Eco de tus palabras dulces sonando en mi piel
+> Tú sabes bien que tus besos me saben a miel
+> Chica, apaga el teléfono, vámonos al hotel
+> Esta noche soy tuyo, vamos a romper el nivel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
